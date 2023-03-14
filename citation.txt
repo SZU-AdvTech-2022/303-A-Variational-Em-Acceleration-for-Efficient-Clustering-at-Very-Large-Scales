@@ -1,4 +1,4 @@
-@article{REPO-304,
+@article{REPO-303,
     author = "Hirschberger, Florian and Forster, Dennis and Lucke, Jorg",
     journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
     number = "12",
