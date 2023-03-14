@@ -1,0 +1,9 @@
+@article{REPO-304,
+    author = "Hirschberger, Florian and Forster, Dennis and Lucke, Jorg",
+    journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    number = "12",
+    pages = "9787-9801",
+    title = "{A Variational EM Acceleration for Efficient Clustering at Very Large Scales}",
+    volume = "44",
+    year = "2022"
+}
